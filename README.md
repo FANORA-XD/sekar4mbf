@@ -31,7 +31,7 @@ pip install mechanize
 
 cd $HOME
 
-rm -rf aryogan
+rm -rf sekar4mbf
 
 git clone https://github.com/FANORA-XD/sekar4mbf
 
