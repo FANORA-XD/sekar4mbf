@@ -1,6 +1,6 @@
 #----------------------------------------
 #Compiled By FANORA GANS
-Facebook : nukasep.tea.9678067
+#Facebook : nukasep.tea.9678067
 #https://github.com/FANORA-XD
 #----------------------------------------
 import marshal
